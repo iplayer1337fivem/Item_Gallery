@@ -104,13 +104,6 @@ alt 255 / 0160
              └── 1_WorkBoats/  
 [WEAPONS]  
      ├── 0_Melee/  
-             ├── 0_Aluminum/  
-             ├── 1_Copper/  
-             ├── 2_Gold/  
-             ├── 3_Iron/  
-             ├── 2_Silver/  
-             ├── 3_Steel/  
-             └── 4_OtherMetals/  
      ├── 1_Pistols/  
      ├── 2_Shotguns/  
      ├── 3_SMGs/  
