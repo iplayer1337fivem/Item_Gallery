@@ -152,3 +152,22 @@ My discord: Rottenberger / https://advancedroleplayer.icu/
 
 22072024 • Folderstructure and 43 items uploaded - and Readme produced.
 
+### Common Metals
+Here are some common metals:
+
+- **Aluminum**
+- **Copper**
+- **Gold**
+- **Iron**
+- **Silver**
+- **Steel**
+- **Nickel**
+- **Lead**
+- **Tin**
+- **Zinc**
+- **Titanium**
+- **Platinum**
+- **Chromium**
+- **Magnesium**
+- **Brass**
+
