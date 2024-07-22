@@ -11,113 +11,112 @@ I created this repository to provide developers and designers with beautifully c
 Each item is meticulously designed to ensure clarity and aesthetic appeal.
 &nbsp;
 alt 255 / 0160
-    
+        
 ## STRUCTURE
 Item_gallery/  
 └──[CLOTHING]  
-├── 0_Tops/  
-│    ├── 0_Shirts/  
-│    ├── 1_Shirts/  
-│    └── 2_Hoodies/    
-├── 1_Bottoms/    
-│    ├── Pants/    
-│    ├── Shorts/    
-│    └── OtherBottoms/    
-├── 2_Shoes/  
-│    ├── 0_Sneakers/  
-│    ├── 1_Boots/  
-│    ├── 2_Heels/  
-│    ├── 3_WorkShoes/  
-│    └── 4_OtherShoes/  
-├── 3_Hats/  
-├── 4_Masks/  
-├── 5_Gloves/  
-└── 6_Accessories/  
+│     ├── 0_Tops/  
+│        ├── 0_Shirts/  
+│        ├── 1_Shirts/  
+│        └── 2_Hoodies/    
+│     ├── 1_Bottoms/    
+│        ├── Pants/    
+│        ├── Shorts/    
+│        └── OtherBottoms/    
+│     ├── 2_Shoes/  
+│        ├── 0_Sneakers/  
+│        ├── 1_Boots/  
+│        ├── 2_Heels/  
+│        ├── 3_WorkShoes/  
+│        └── 4_OtherShoes/  
+│     ├── 3_Hats/  
+│     ├── 4_Masks/  
+│     ├── 5_Gloves/  
+│     └── 6_Accessories/  
 └──[CONSUMABLES]  
-├── 0_FOOD/  
-│   ├── 0_Snacks/  
-│   ├── 1_Meals/  
-│   ├── 2_Companies/  
-│   └── 3_OtherFoods/  
-├── 1_Drinks/  
-│   ├── 0_Water/  
-│   ├── 1_Soda/  
-│   ├── 2_Alcohol/  
-│   ├── 3_Companies/  
-│   └── 4_OtherDrinks/  
-├── 2_Medical/  
-│   ├── 0_Bandages/  
-│   └── 1_FirstAidKits/  
-└──3_ Drugs/  
-├── 0_Medicinal/  
-└── 1_Recreational/  
-└──[MISCELLANEOUS]  
-├── 0_Keys/  
-│   ├──0_HouseKeys/  
-│   ├──1_VehicleKeys/  
-│   ├──2_CompanyKeys/  
-│   └──3_OtherKeys/  
-├── 0_Documents/  
-│   ├── 0_ID/  
-│   └── 1_Licenses/  
-├── 0_Tools/  
-│   ├── 0_RepairTools/  
-│   └── 1_CraftingTools/  
-└── 0_Collectibles/  
-├── 0_TradingCards/  
-└── 1_Stamps/  
-└──[RESSOURCES]  
-├── 0_Metals/   
-│   ├── 0_Aluminum/  
-│   ├── 1_Copper/  
-│   ├── 2_Gold/  
-│   ├── 3_Iron/  
-│   ├── 2_Silver/  
-│   ├── 3_Steel/  
-│   └── 4_OtherMetals/  
-├── 1_Wood/  
-├── 2_Textiles/  
-├── 3_Electronics/  
-├── 4_Ingredients/  
-├── 5_Materials/  
-└── 6_OtherMaterials/  
+│     ├── 0_FOOD/  
+│        ├── 0_Snacks/  
+│        ├── 1_Meals/  
+│        ├── 2_Companies/  
+│        └── 3_OtherFoods/  
+│     ├── 1_Drinks/  
+│           ├── 0_Water/  
+│        ├── 1_Soda/  
+│        ├── 2_Alcohol/  
+│        ├── 3_Companies/  
+│        └── 4_OtherDrinks/  
+│     ├── 2_Medical/  
+│        ├── 0_Bandages/  
+│        └── 1_FirstAidKits/  
+│     └──3_ Drugs/  
+│        ├── 0_Medicinal/  
+│        └── 1_Recreational/  
+│└──[MISCELLANEOUS]  
+│     ├── 0_Keys/  
+│        ├──0_HouseKeys/  
+│        ├──1_VehicleKeys/  
+│        ├──2_CompanyKeys/  
+│        └──3_OtherKeys/  
+│     ├── 0_Documents/  
+│        ├── 0_ID/  
+│        └── 1_Licenses/  
+│     ├── 0_Tools/  
+│        ├── 0_RepairTools/  
+│        └── 1_CraftingTools/  
+│     └── 0_Collectibles/  
+│        ├── 0_TradingCards/  
+│        └── 1_Stamps/  
+│└──[RESSOURCES]  
+│     ├── 0_Metals/   
+│        ├── 0_Aluminum/  
+│        ├── 1_Copper/  
+│        ├── 2_Gold/  
+│        ├── 3_Iron/  
+│        ├── 2_Silver/  
+│        ├── 3_Steel/  
+│        └── 4_OtherMetals/  
+│     ├── 1_Wood/  
+│     ├── 2_Textiles/  
+│     ├── 3_Electronics/  
+│     ├── 4_Ingredients/  
+│     ├── 5_Materials/  
+│     └── 6_OtherMaterials/  
 
 └──[VEHICLES]  
-├── 0_Cars/  
-│   ├── 0_SportsCars/  
-│   ├── 1_MuscleCars/  
-│   ├── 2_SUVs/  
-│   ├── 3_Sedans/  
-│   ├── 4_CompanyCars/  
-│   ├── 5_EmergencyCars/  
-│   └── 6_OffroadCars/  
-├── 1_Motorcycles/  
-│   ├──0_CruiserBikes/  
-│   ├──1_SportBikes/  
-│   ├──2_ClassicsBikes/  
-│   └──3_OffroadBikes/  
-├── 2_Aircraft/  
-│   ├── Helicopters/  
-│   └── Planes/  
-└── 3_Boats/  
-│   ├── 0_SportBoats/  
-    └── 1_WorkBoats/  
-
+│     ├── 0_Cars/  
+│        ├── 0_SportsCars/  
+│        ├── 1_MuscleCars/  
+│        ├── 2_SUVs/  
+│        ├── 3_Sedans/  
+│        ├── 4_CompanyCars/  
+│        ├── 5_EmergencyCars/  
+│        └── 6_OffroadCars/  
+│     ├── 1_Motorcycles/  
+│        ├──0_CruiserBikes/  
+│        ├──1_SportBikes/  
+│        ├──2_ClassicsBikes/  
+│        └──3_OffroadBikes/  
+│     ├── 2_Aircraft/  
+│        ├── Helicopters/  
+│        └── Planes/  
+│     └── 3_Boats/  
+│        ├── 0_SportBoats/  
+│        └── 1_WorkBoats/  
 └──[WEAPONS]  
-├── 0_Melee/  
-│   ├── 0_Aluminum/  
-│   ├── 1_Copper/  
-│   ├── 2_Gold/  
-│   ├── 3_Iron/  
-│   ├── 2_Silver/  
-│   ├── 3_Steel/  
-│   └── 4_OtherMetals/  
-├── 1_Pistols/  
-├── 2_Shotguns/  
-├── 3_SMGs/  
-├── 4_Assaultrifles/  
-├── 5_SniperRifles/  
-└── 6_Explosives/  
+│     ├── 0_Melee/  
+│        ├── 0_Aluminum/  
+│        ├── 1_Copper/  
+│        ├── 2_Gold/  
+│        ├── 3_Iron/  
+│        ├── 2_Silver/  
+│        ├── 3_Steel/  
+│        └── 4_OtherMetals/  
+│     ├── 1_Pistols/  
+│     ├── 2_Shotguns/  
+│     ├── 3_SMGs/  
+│     ├── 4_Assaultrifles/  
+│     ├── 5_SniperRifles/  
+│     └── 6_Explosives/  
 
 Welcome to my Custom Inventory Items repository! Here, you will find unique, handcrafted inventory items designed with black and white outlines, all in a clean and consistent 200 x 200 pixel PNG format.
 
