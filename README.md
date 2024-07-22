@@ -12,10 +12,11 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
 
 ## STRUCTURE
 Item_gallery/
-##└──[CLOTHING]
-##    ├── 0_Tops/
-##    │   ├── 0_Shirts/
-##    │   ├── 1_Shirts/
+
+#└──[CLOTHING]
+#    ├──# 0_Tops/
+#    │#   ├── 0_Shirts/
+#    │#   ├── 1_Shirts/
     │   └── 2_Hoodies/
     ├── 1_Bottoms/
     │   ├── Pants/
