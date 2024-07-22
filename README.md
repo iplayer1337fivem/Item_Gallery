@@ -15,13 +15,13 @@ Item_gallery/
 
 └──[CLOTHING]
 &nbsp;       ├── 0_Tops/
-&nbsp;       │ &nbsp;     ├── 0_Shirts/
-&nbsp;       │ &nbsp;     ├── 1_Shirts/
-     │   └── 2_Hoodies/
-     ├── 1_Bottoms/
-     │   ├── Pants/
-     │   ├── Shorts/
-    │   └── OtherBottoms/
+&nbsp;       │ &nbsp;     ├── 0_Shirts/  
+&nbsp;       │ &nbsp;     ├── 1_Shirts/  
+     │   └── 2_Hoodies/  
+     ├── 1_Bottoms/  
+     │   ├── Pants/  
+     │   ├── Shorts/  
+    │   └── OtherBottoms/  
     ├── 2_Shoes/
     │   ├── 0_Sneakers/
     │   ├── 1_Boots/
