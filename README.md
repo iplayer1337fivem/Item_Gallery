@@ -13,14 +13,14 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
 ## STRUCTURE
 Item_gallery/
 
-#└──[CLOTHING]
+└──[CLOTHING]
 &nbsp;       ├── 0_Tops/
 &nbsp;       │ &nbsp;     ├── 0_Shirts/
 &nbsp;       │ &nbsp;     ├── 1_Shirts/
-    │   └── 2_Hoodies/
-    ├── 1_Bottoms/
-    │   ├── Pants/
-    │   ├── Shorts/
+     │   └── 2_Hoodies/
+     ├── 1_Bottoms/
+     │   ├── Pants/
+     │   ├── Shorts/
     │   └── OtherBottoms/
     ├── 2_Shoes/
     │   ├── 0_Sneakers/
