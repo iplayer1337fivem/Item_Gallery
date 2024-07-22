@@ -15,6 +15,7 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
 |    \  / \  |  \/|| | |||  /    / \  | | |||  \/||  \  
 \___ |  | |  |    /| \_/||  \__  | |  | \_/||    /|  /_ 
 \____/  \_/  \_/\_\\____/\____/  \_/  \____/\_/\_\\____\
+
 ``                                                      
 
 Item_gallery/
