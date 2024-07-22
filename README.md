@@ -9,13 +9,13 @@ In the world of game development and design, having high-quality, custom-made in
 I created this repository to provide developers and designers with beautifully crafted inventory icons that can be easily integrated into various projects. 
 
 Each item is meticulously designed to ensure clarity and aesthetic appeal.
-
+``
  ____  _____  ____  _     ____  _____  _     ____  _____
 / ___\/__ __\/  __\/ \ /\/   _\/__ __\/ \ /\/  __\/  __/
 |    \  / \  |  \/|| | |||  /    / \  | | |||  \/||  \  
 \___ |  | |  |    /| \_/||  \__  | |  | \_/||    /|  /_ 
 \____/  \_/  \_/\_\\____/\____/  \_/  \____/\_/\_\\____\
-                                                        
+``                                                      
 
 Item_gallery/
 └──[CLOTHING]
