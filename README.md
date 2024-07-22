@@ -14,7 +14,7 @@ alt 255 / 0160
         
 ## STRUCTURE
  
-**[CLOTHING]  
+** [CLOTHING] ** 
      ├── 0_Tops/  
              ├── 0_Shirts/  
              ├── 1_Shirts/  
@@ -33,7 +33,7 @@ alt 255 / 0160
      ├── 4_Masks/  
      ├── 5_Gloves/  
      └── 6_Accessories/  
-##[CONSUMABLES]  
+## [CONSUMABLES] ## 
      ├── 0_FOOD/  
              ├── 0_Snacks/  
              ├── 1_Meals/  
