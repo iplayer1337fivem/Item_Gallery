@@ -14,9 +14,9 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
 Item_gallery/
 
 #└──[CLOTHING]
-#    ├──# 0_Tops/
-#    │#   ├── 0_Shirts/
-#    │#   ├── 1_Shirts/
+&nbsp;       ├── 0_Tops/
+&nbsp;       │   ├── 0_Shirts/
+&nbsp;       │   ├── 1_Shirts/
     │   └── 2_Hoodies/
     ├── 1_Bottoms/
     │   ├── Pants/
