@@ -15,8 +15,8 @@ Item_gallery/
 
 #└──[CLOTHING]
 &nbsp;       ├── 0_Tops/
-&nbsp;       │   ├── 0_Shirts/
-&nbsp;       │   ├── 1_Shirts/
+&nbsp;       │ &nbsp;     ├── 0_Shirts/
+&nbsp;       │ &nbsp;     ├── 1_Shirts/
     │   └── 2_Hoodies/
     ├── 1_Bottoms/
     │   ├── Pants/
