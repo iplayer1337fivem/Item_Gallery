@@ -9,9 +9,8 @@ In the world of game development and design, having high-quality, custom-made in
 I created this repository to provide developers and designers with beautifully crafted inventory icons that can be easily integrated into various projects. 
 
 Each item is meticulously designed to ensure clarity and aesthetic appeal.
-&nbsp;
-alt 255 / 0160
-        
+
+        
 ## STRUCTURE
  
 [CLOTHING]   
