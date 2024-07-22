@@ -14,7 +14,7 @@ alt 255 / 0160
         
 ## STRUCTURE
  
-** [CLOTHING] ** 
+[CLOTHING]   
      ├── 0_Tops/  
              ├── 0_Shirts/  
              ├── 1_Shirts/  
@@ -33,7 +33,7 @@ alt 255 / 0160
      ├── 4_Masks/  
      ├── 5_Gloves/  
      └── 6_Accessories/  
-## [CONSUMABLES] ## 
+[CONSUMABLES]  
      ├── 0_FOOD/  
              ├── 0_Snacks/  
              ├── 1_Meals/  
@@ -51,7 +51,7 @@ alt 255 / 0160
      └──3_ Drugs/  
              ├── 0_Medicinal/  
              └── 1_Recreational/  
-#[MISCELLANEOUS]  
+[MISCELLANEOUS]    
      ├── 0_Keys/  
              ├──0_HouseKeys/  
              ├──1_VehicleKeys/  
@@ -66,7 +66,7 @@ alt 255 / 0160
      └── 0_Collectibles/  
              ├── 0_TradingCards/  
              └── 1_Stamps/  
-#[RESSOURCES]  
+[RESSOURCES]  
      ├── 0_Metals/   
              ├── 0_Aluminum/  
              ├── 1_Copper/  
@@ -82,7 +82,7 @@ alt 255 / 0160
      ├── 5_Materials/  
      └── 6_OtherMaterials/  
 
-#[VEHICLES]  
+[VEHICLES]  
      ├── 0_Cars/  
              ├── 0_SportsCars/  
              ├── 1_MuscleCars/  
@@ -102,7 +102,7 @@ alt 255 / 0160
      └── 3_Boats/  
              ├── 0_SportBoats/  
              └── 1_WorkBoats/  
-#[WEAPONS]  
+[WEAPONS]  
      ├── 0_Melee/  
              ├── 0_Aluminum/  
              ├── 1_Copper/  
