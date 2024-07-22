@@ -33,6 +33,7 @@ alt 255 / 0160
      ├── 4_Masks/  
      ├── 5_Gloves/  
      └── 6_Accessories/  
+
 [CONSUMABLES]  
      ├── 0_FOOD/  
              ├── 0_Snacks/  
@@ -51,6 +52,7 @@ alt 255 / 0160
      └──3_ Drugs/  
              ├── 0_Medicinal/  
              └── 1_Recreational/  
+
 [MISCELLANEOUS]    
      ├── 0_Keys/  
              ├──0_HouseKeys/  
@@ -66,6 +68,7 @@ alt 255 / 0160
      └── 0_Collectibles/  
              ├── 0_TradingCards/  
              └── 1_Stamps/  
+
 [RESSOURCES]  
      ├── 0_Metals/   
              ├── 0_Aluminum/  
@@ -102,6 +105,7 @@ alt 255 / 0160
      └── 3_Boats/  
              ├── 0_SportBoats/  
              └── 1_WorkBoats/  
+
 [WEAPONS]  
      ├── 0_Melee/  
      ├── 1_Pistols/  
@@ -128,13 +132,5 @@ This will include various categories and themes to cater to different needs and 
 
 My discord: Rottenberger / https://advancedroleplayer.icu/
 
-<br>
- _______  __   __  _______  __    _  _______  _______  ___      _______  _______ <br>
-|       ||  | |  ||   _   ||  |  | ||       ||       ||   |    |       ||       |<br>
-|       ||  |_|  ||  |_|  ||   |_| ||    ___||    ___||   |    |   _   ||    ___|<br>
-|       ||       ||       ||       ||   | __ |   |___ |   |    |  | |  ||   | __ <br>
-|      _||       ||       ||  _    ||   ||  ||    ___||   |___ |  |_|  ||   ||  |<br>
-|     |_ |   _   ||   _   || | |   ||   |_| ||   |___ |       ||       ||   |_| |<br>
-|_______||__| |__||__| |__||_|  |__||_______||_______||_______||_______||_______|<br>
-<br>
+# CHANGELOG
 22072024 • Folderstructure and 43 items uploaded - and Readme produced.
