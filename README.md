@@ -58,15 +58,20 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
              ├──1_VehicleKeys/  
              ├──2_CompanyKeys/  
              └──3_OtherKeys/  
-     ├── 0_Documents/  
+     ├── 1_Documents/  
              ├── 0_ID/  
              └── 1_Licenses/  
-     ├── 0_Tools/  
+     ├── 2_Tools/  
              ├── 0_RepairTools/  
              └── 1_CraftingTools/  
-     └── 0_Collectibles/  
+     └── 3_Collectibles/  
              ├── 0_TradingCards/  
              └── 1_Stamps/  
+     └── 4_RealEstates/  
+             └── 0_Companies/    
+     └── 5_CompanyLogos/  
+     └── oldschool_redM/    (Not mine backup for others)
+
 
 [RESSOURCES]  
      ├── 0_Metals/   
@@ -114,6 +119,9 @@ Each item is meticulously designed to ensure clarity and aesthetic appeal.
      ├── 5_SniperRifles/  
      └── 6_Explosives/  
 
+[WALLPAPERS]  
+     └── all/    
+
 Welcome to my Custom Inventory Items repository! Here, you will find unique, handcrafted inventory items designed with black and white outlines, all in a clean and consistent 200 x 200 pixel PNG format.
 
 About 
@@ -132,5 +140,6 @@ This will include various categories and themes to cater to different needs and 
 My discord: Rottenberger / https://advancedroleplayer.icu/
 
 # CHANGELOG
+26072024 • Addded [Wallpapers] and [PEDS] and [Vehicles] / removed from https://www.arottenberger.pro/ (Keeping this for uniques)
 24072024 • Weed among other recreationel items.
 22072024 • Folderstructure and 43 items uploaded - and Readme produced.
