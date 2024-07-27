@@ -140,6 +140,7 @@ This will include various categories and themes to cater to different needs and 
 My discord: Rottenberger / https://advancedroleplayer.icu/
 
 # CHANGELOG
+27072024 • Added the official business logos of GTAV and more Realestates pictures
 26072024 • Addded [Wallpapers] and [PEDS] and [Vehicles] / removed from https://www.arottenberger.pro/ (Keeping this for uniques)
 24072024 • Weed among other recreationel items.
 22072024 • Folderstructure and 43 items uploaded - and Readme produced.
