@@ -1,0 +1,23 @@
+# 1. Create or Select the Repository
+Go to your GitHub account and either create a new repository or navigate to an existing one where you want to store your images.
+If creating a new repository, click on "New" and fill in the necessary details (name, description, visibility, etc.).
+
+# 2. Add Images to the Repository
+Drag and Drop: In your repository, click on the "Add file" button, and select "Upload files." You can then drag and drop your images into the designated area.
+Browse and Upload: Alternatively, click on "Choose your files" to browse your computer and select the images you want to upload.
+
+# 3. Organize Images in a Folder
+If you want to keep your images organized, create a dedicated folder by typing the folder name in the file path field when uploading. For example, type HEREyouCANuploadFORfutureEDITS/ followed by your image name.
+This structure helps keep your repository clean and makes it easier to find the images for future edits.
+# 4. Transform Image Sizes and Design
+You can either edit the images locally on your machine using software like Photoshop, GIMP, or any online tool.
+After editing, you can replace the old images in the same GitHub folder by uploading the new versions with the same name, ensuring that your repository always contains the latest designs.
+
+# 5. Commit Changes
+After uploading or replacing images, add a meaningful commit message, like “Added images for future edits” or “Updated design for banner image.”
+Click "Commit changes" to finalize the upload.
+# 6. Accessing the Images Later
+The images stored in HEREyouCANuploadFORfutureEDITS can be accessed by navigating to that folder in your repository. You can also share links to these images directly if needed.
+
+# 7. Cloning the Repository
+If you need to edit these images later, you can clone the repository to your local machine, edit the images, and push the changes back to GitHub.
